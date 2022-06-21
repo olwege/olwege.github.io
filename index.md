@@ -25,5 +25,4 @@ Münsterstraße 156 <br>
 [mv.hs-duesseldorf.de](https://mv.hs-duesseldorf.de)
 
 ### Email
-[oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)<br>
-[wege.oliver@gmail.com](mailto:wege.oliver@gmail.com)
+[oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)
