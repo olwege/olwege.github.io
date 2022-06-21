@@ -34,3 +34,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Test
 [Image](/files/imgs/results/halfMbbBeam/halfMbbBeam_volume_over_elements.pdf)
+
+![Photo][1]
+
+[1]: /icons/poster_icon.png "Poster"
