@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
 
 a {
   color: #6492DF;
@@ -9,8 +9,7 @@ a {
 
 .page-header {
   color: #ffffff;
-  background-color: #000000;
-  background-image: #6492DF;
+  background-color: #6492DF;
   }
 
 .main-content {
