@@ -16,7 +16,7 @@ This is a collection of the work I've done during my Bachelor Thesis and the Mas
 [3]: /icons/poster_icon.png "Poster"
 
 ## Experiments
-[![Image][4]](https://olwege.github.io/files/imgs/results/)
+[![Image][4]](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
 
 [4]: /icons/experiments_icon.png "Experiments"
 
