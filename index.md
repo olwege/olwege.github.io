@@ -14,11 +14,11 @@ This is a collection of the work I've done in my Bachelor Thesis and in the Mast
 
 # .contact.
 Oliver Wege, BEng <br>
-Research Assistant | Computational Engineering
+Research Assistant | Computational Engineering <br>
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)
 
 Faculty of Mechanical and Process Engineering <br>
 Hochschule Düsseldorf - University of Applied Sciences <br>
 Münsterstraße 156 <br>
-40476 Düsseldorf, Germany
+40476 Düsseldorf, Germany <br>
 [mv.hs-duesseldorf.de](https://mv.hs-duesseldorf.de)
