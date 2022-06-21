@@ -16,9 +16,9 @@ This is a collection of the work I've done during my Bachelor Thesis and the Mas
 [3]: /icons/poster_icon.png "Poster"
 
 # Experiments
-[![Image][3]](/files/imgs/results/)
+[![Image][4]](/files/imgs/results/)
 
-[3]: /icons/experiments_icon.png "Experiments"
+[4]: /icons/experiments_icon.png "Experiments"
 
 # Contact
 Oliver Wege, BEng <br>
