@@ -1,40 +1,34 @@
-## Welcome to GitHub Pages
+# Welcome
+This is a collection of the work I've done during my Bachelor Thesis and the Master course _Engineering Conferences_ at the University of Applied Sciences Düsseldorf in Germany. Beside the paper of my Thesis about the _Topology Optimization of Truss Structures to
+Redesign Solid Components_, you can find the complete Thesis here (written in German) along with the results of all my experiments, perfomed by the presented algorithm. 
 
-You can use the [editor on GitHub](https://github.com/olwege/olwege.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-## Test
-[Image](/files/imgs/results/halfMbbBeam/halfMbbBeam_volume_over_elements.pdf)
-
-[![Photo][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+## Article
+[![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
 
 [1]: /icons/poster_icon.png "Poster"
+
+## Thesis
+[![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+
+[1]: /icons/poster_icon.png "Poster"
+
+## Poster
+[![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+
+[1]: /icons/poster_icon.png "Poster"
+
+# Contact
+Oliver Wege, BEng <br>
+Research Assistant | Computational Engineering
+
+Faculty of Mechanical and Process Engineering <br>
+Hochschule Düsseldorf - University of Applied Sciences <br>
+Münsterstraße 156 <br>
+40476 Düsseldorf, Germany
+
+### Institution
+<https://mv.hs-duesseldorf.de>
+
+### Email
+<oliver.wege@hs-duesseldorf.de><br>
+<wege.oliver@gmail.com>
