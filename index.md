@@ -12,7 +12,7 @@ This is a collection of my work in the Bachelor Thesis and in the Master course 
 ## Experiments
 [<img src="/thumbnails/experiments.png " alt="experiments" width="300"/>](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
 
-## Contact XXX
+## Contact
 Oliver Wege, BEng <br>
 Research Assistant | Computational Engineering
 
