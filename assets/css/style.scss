@@ -1,28 +1,4 @@
-@import "jekyll-theme-cayman";
+---
+---
 
-a {
-  color: #6492DF;
-}
-
-.page-header {
-  color: #ffffff;
-  background-color: #6492DF;
-  background-image: linear-gradient(120deg, #6492DF, #6492DF);
-  }
-
-.main-content {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: #000000;
-    }
-  }
-
-  .site-footer { 
-    padding-top: 0rem; 
-    margin-top: 0rem; 
-    border-top: solid 0px #ffffff; 
-  }
+@import 'jekyll-theme-cayman';

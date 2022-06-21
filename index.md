@@ -12,7 +12,7 @@ This is a collection of my work in the Bachelor Thesis and in the Master course 
 ## Experiments
 [<img src="/thumbnails/experiments.png " alt="experiments" width="300"/>](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
 
-## Contact
+## Contact XXX
 Oliver Wege, BEng <br>
 Research Assistant | Computational Engineering
 
@@ -27,8 +27,6 @@ Münsterstraße 156 <br>
 ### Email
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)<br>
 [wege.oliver@gmail.com](mailto:wege.oliver@gmail.com)
-
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
 <br>
 &copy; 2022 Oliver Wege
