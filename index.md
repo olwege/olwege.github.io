@@ -1,16 +1,16 @@
 # Welcome
 This is a collection of the work I've done during my Bachelor Thesis and the Master course _Engineering Conferences_ at the University of Applied Sciences Düsseldorf in Germany. Beside the paper of my Thesis about the _Topology Optimization of Truss Structures to
-Redesign Solid Components_, you can find the complete Thesis here (written in German) along with the results of all my experiments, perfomed by the presented algorithm. 
+Redesign Solid Components_, you can find the complete Thesis here (written in German) along with the detailed results of all my experiments, performed by the presented algorithm. Especially the <tt>_optVal.pdf</tt>'s of the models allow a glimpse behind the scenes of the optimization process (e.g. of the [Michell cantilever with circular support](/files/imgs/results/michellCircCantilever/michellCircCantilever_optVal.pdf))
 
 ## Article
-[![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+[![Image][1]](/files/docs/Wege2022_Article_TrussOptimization_en.pdf)
 
-[1]: /icons/poster_icon.png "Poster"
+[1]: /icons/article_icon.png "Article"
 
-## Thesis
-[![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+## Thesis (German)
+[![Image][1]](/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf)
 
-[1]: /icons/poster_icon.png "Poster"
+[1]: /icons/thesis_icon.png "Thesis"
 
 ## Poster
 [![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
