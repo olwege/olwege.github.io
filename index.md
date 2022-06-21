@@ -27,6 +27,3 @@ Münsterstraße 156 <br>
 ### Email
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)<br>
 [wege.oliver@gmail.com](mailto:wege.oliver@gmail.com)
-
-<br>
-&copy; 2022 Oliver Wege
