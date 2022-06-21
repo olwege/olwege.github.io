@@ -30,3 +30,5 @@ Münsterstraße 156 <br>
 ### Email
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)<br>
 [wege.oliver@gmail.com](mailto:wege.oliver@gmail.com)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
