@@ -25,7 +25,7 @@ Münsterstraße 156 <br>
 40476 Düsseldorf, Germany
 
 ### Institution
-<https://mv.hs-duesseldorf.de>
+[mv.hs-duesseldorf.de](https://mv.hs-duesseldorf.de)
 
 ### Email
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)<br>
