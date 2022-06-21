@@ -10,9 +10,7 @@ This is a collection of the work I've done during my Bachelor Thesis and the Mas
 [<img src="/thumbnails/poster.png " alt="poster" width="200"/>](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
 
 ## Experiments
-[![Image][4]](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
-
-[4]: /thumbnails/experiments.png "experiments"
+[<img src="/thumbnails/experiments.png " alt="experiments" width="200"/>](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
 
 ## Contact
 Oliver Wege, BEng <br>
