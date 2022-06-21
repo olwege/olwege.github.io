@@ -8,14 +8,14 @@ Redesign Solid Components_, you can find the complete Thesis here (written in Ge
 [1]: /icons/article_icon.png "Article"
 
 ## Thesis (German)
-[![Image][1]](/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf)
+[![Image][2]](/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf)
 
-[1]: /icons/thesis_icon.png "Thesis"
+[2]: /icons/thesis_icon.png "Thesis"
 
 ## Poster
-[![Image][1]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+[![Image][3]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
 
-[1]: /icons/poster_icon.png "Poster"
+[3]: /icons/poster_icon.png "Poster"
 
 # Contact
 Oliver Wege, BEng <br>
