@@ -1,22 +1,18 @@
 This is a collection of the work I've done during my Bachelor Thesis and the Master course _Engineering Conferences_ at the University of Applied Sciences Düsseldorf in Germany. Beside the paper of my Thesis about the _Topology Optimization of Truss Structures to Redesign Solid Components_, you can find the complete Thesis here (written in German) along with the detailed results of all my experiments, performed by the presented algorithm. Especially the <tt>..._optVal.pdf</tt> files of the models allow a valuable glimpse behind the scenes of the optimization process (e.g. of the [Michell cantilever with circular support](/files/imgs/results/michellCircCantilever/michellCircCantilever_optVal.pdf))
 
 ## Article in _Engineering Conferences_
-[<img src="/thumbnails/article.png " alt="Article" width="200"/>](/files/docs/Wege2022_Article_TrussOptimization_en.pdf)
+[<img src="/thumbnails/article.png " alt="article" width="200"/>](/files/docs/Wege2022_Article_TrussOptimization_en.pdf)
 
 ## Thesis (German)
-[![Image][2]](/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf)
-
-[2]: /thumbnails/thesis.png "Thesis"
+[<img src="/thumbnails/thesis.png " alt="thesis" width="200"/>](/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf)
 
 ## Poster
-[![Image][3]](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
-
-[3]: /thumbnails/poster.png "Poster"
+[<img src="/thumbnails/poster.png " alt="poster" width="200"/>](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
 
 ## Experiments
 [![Image][4]](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
 
-[4]: /thumbnails/experiments.png "Experiments"
+[4]: /thumbnails/experiments.png "experiments"
 
 ## Contact
 Oliver Wege, BEng <br>
