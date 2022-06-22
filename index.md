@@ -12,7 +12,7 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 # .experiments
 [<img src="/thumbnails/experiments.png " alt="experiments" width="300"/>](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
 
-# .contact
+# .contact.
 Oliver Wege, BEng <br>
 Research Assistant | Computational Engineering <br>
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)
