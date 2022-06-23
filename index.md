@@ -6,15 +6,21 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 </a>
 
 # .thesis
-[<img src="/thumbnails/thesis.png " alt="thesis" width="300"/>](/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf)
+<a href="/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf" class="imghover">
+<img src="/thumbnails/thesis.png " alt="thesis" width="300"/>
+</a>
 
 # .poster
-[<img src="/thumbnails/poster.png " alt="poster" width="300"/>](/files/docs/Wege2022_Poster_TrussOptimization_en.pdf)
+<a href="/files/docs/Wege2022_Poster_TrussOptimization_en.pdf" class="imghover">
+<img src="/thumbnails/poster.png " alt="poster" width="300"/>
+</a>
 
 # .experiments
-[<img src="/thumbnails/experiments.png " alt="experiments" width="300"/>](https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results)
+<a href="https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results" class="imghover">
+<img src="/thumbnails/experiments.png " alt="experiments" width="300"/>
+</a>
 
-# .contact
+# .contact.
 Oliver Wege, BEng <br>
 Research Assistant | Computational Engineering <br>
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)
