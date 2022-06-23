@@ -20,7 +20,7 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 <img src="/thumbnails/experiments.png " alt="experiments" width="300"/>
 </a>
 
-# .contact!
+# .contact
 Oliver Wege, BEng <br>
 Research Assistant | Computational Engineering <br>
 [oliver.wege@hs-duesseldorf.de](mailto:oliver.wege@hs-duesseldorf.de)
