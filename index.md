@@ -1,4 +1,4 @@
-currently, this page mainly serves the purpose to give easy access to the bachelor and master theses of my mechanical engineering studies. for more recent research activities pleas check out my [academic webpage @ CATS](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1) and my [orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131) :)
+currently, this page mainly serves the purpose to give easy access to the bachelor and master thesis of my mechanical engineering studies. for more recent research activities please check out my [academic webpage @ CATS](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1) and my [orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131) :)
 
 # .master thesis
 <a href="/content/master-thesis.md" class="imghover">
