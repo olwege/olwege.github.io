@@ -16,6 +16,3 @@ This is my master thesis on the extension of the mulit-level _hp_ finite cell me
 <a href="/files/docs/Wege2024_ThesisPresentation_ger.pdf" class="imghover">
 <img src="/thumbnails/presentation.png " alt="slides-ger" width="300"/>
 </a>
-
-<!-- <br><br>
-<a href="../index.md" style="display:inline-block;padding:4px 8px;background:#0043EE;color:#fff;border-radius:5px;text-decoration:none;margin-bottom:20px;">to main</a> -->
