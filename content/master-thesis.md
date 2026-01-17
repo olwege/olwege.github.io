@@ -11,7 +11,7 @@ This is my master thesis on the extension of the mulit-level _hp_ finite cell me
 
 # .slides
 <a href="/files/docs/Wege2024_ThesisPresentation_en.pdf" class="imghover">
-<img src="/thumbnails/presentation.png " alt="slides-en" width="500"/>
+<img src="/thumbnails/presentation.png " alt="slides-en" width="300"/>
 </a><br>
 click [here](/files/docs/Wege2024_ThesisPresentation_ger.pdf) for a similar German version.
 
