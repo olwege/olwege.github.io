@@ -11,7 +11,7 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 
 # .thesis
 <a href="/files/docs/Wege2022_Thesis_TrussOptimization_ger.pdf" class="imghover">
-<img src="/thumbnails/thesis.png " alt="thesis" width="300"/>
+<img src="/thumbnails/beng-thesis.png " alt="thesis" width="300"/>
 </a>
 
 # .poster
