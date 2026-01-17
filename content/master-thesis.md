@@ -16,4 +16,4 @@ This is my master thesis on the extension of the mulit-level _hp_ finite cell me
 click [here](/files/docs/Wege2024_ThesisPresentation_ger.pdf) for a similar German version.
 
 <br><br>
-[<- take me home.](/index.md)
+[<- take me home.](/index)
