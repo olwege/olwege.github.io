@@ -17,4 +17,5 @@ Chair for Computational Analysis of Technical Systems (CATS)  <br>
 RWTH Aachen University  <br>
 Schinkelstrasse 2 (Rogowski building)  <br>
 52062 Aachen, Germany  <br>
-[cats.rwth-aachen.de](https://www.cats.rwth-aachen.de)
+[cats.rwth-aachen.de](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1)
+[orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131)
