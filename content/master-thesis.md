@@ -1,3 +1,7 @@
+---
+layout: default
+title: master thesis
+---
 This is my master thesis on the extension of the mulit-level _hp_ finite cell method to thermo-viscoplastic problems using an advanced numerical integration strategy to increase the computational efficiency. Along with the thesis you can find the slides of a talk I gave at the WCCM conference 2024 on the same topic (in English and a similar German version as well).
 
 # .thesis
