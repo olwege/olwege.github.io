@@ -10,7 +10,7 @@
 <img src="/thumbnails/msc-thesis.png " alt="msc-thesis" width="300"/>
 </a>
 
-<!-- # .contact
+# .contact
 Oliver Wege, M.Sc. <br>
 Research Associate | Computational Engineering <br>
 [wege@cats.rwth-aachen.de](mailto:wege@cats.rwth-aachen.de)  <br>
@@ -19,4 +19,4 @@ Chair for Computational Analysis of Technical Systems (CATS)  <br>
 RWTH Aachen University  <br>
 Schinkelstrasse 2 (Rogowski building)  <br>
 52062 Aachen, Germany  <br>
-[cats.rwth-aachen.de](https://www.cats.rwth-aachen.de) -->
+[cats.rwth-aachen.de](https://www.cats.rwth-aachen.de)
