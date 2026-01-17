@@ -1,4 +1,4 @@
-text to test
+currently, this page mainly serves the purpose to give easy access to the bachelor and master theses of my mechanical engineering studies. for more recent research activities pleas check out my [academic webpage @ CATS](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1) and my [orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131) :)
 
 # .master thesis
 <a href="/content/master-thesis.md" class="imghover">
@@ -14,9 +14,7 @@ text to test
 Oliver Wege, M.Sc. <br>
 Research Associate in Computational Engineering <br>
 [wege@cats.rwth-aachen.de](mailto:wege@cats.rwth-aachen.de)  <br>
-[academic webpage @ CATS](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1) <br>
-[orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131)
-
+ <br>
 
 Chair for Computational Analysis of Technical Systems (CATS)  <br>
 RWTH Aachen University  <br>
