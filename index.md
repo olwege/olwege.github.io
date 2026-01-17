@@ -12,7 +12,7 @@
 
 # .contact
 Oliver Wege, M.Sc. <br>
-Research Associate | Computational Engineering <br>
+Research Associate in Computational Engineering <br>
 [wege@cats.rwth-aachen.de](mailto:wege@cats.rwth-aachen.de)  <br>
 
 Chair for Computational Analysis of Technical Systems (CATS)  <br>
