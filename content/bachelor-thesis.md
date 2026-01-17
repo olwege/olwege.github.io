@@ -23,3 +23,6 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 <a href="https://github.com/olwege/olwege.github.io/tree/main/files/imgs/results" class="imghover">
 <img src="/thumbnails/experiments.png " alt="experiments" width="300"/>
 </a>
+
+<br><br>
+[<- take me home.](/index.md)
