@@ -22,5 +22,5 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 <img src="/thumbnails/experiments.png " alt="experiments" width="300"/>
 </a>
 
-<br><br>
-<a href="../index.md" style="display:inline-block;padding:4px 8px;background:#0043EE;color:#fff;border-radius:5px;text-decoration:none;margin-bottom:20px;">to main</a>
+<!-- <br><br>
+<a href="../index.md" style="display:inline-block;padding:4px 8px;background:#0043EE;color:#fff;border-radius:5px;text-decoration:none;margin-bottom:20px;">to main</a> -->
