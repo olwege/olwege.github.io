@@ -1,11 +1,9 @@
-# oliver wege
-
-## .master thesis
+# .master thesis
 <a href="/content/master-thesis.md" class="imghover">
 <img src="/thumbnails/msc-thesis.png " alt="msc-thesis" width="300"/>
 </a>
 
-## .bachelor thesis
+# .bachelor thesis
 <a href="/content/bachelor-thesis.md" class="imghover">
 <img src="/thumbnails/beng-thesis.png " alt="beng-thesis" width="300"/>
 </a>
