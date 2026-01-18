@@ -2,9 +2,7 @@
 layout: default
 title: oliver wege
 ---
-currently, this page mainly serves the purpose of providing easy access to the theses of my mechanical engineering studies. for more recent research activities please check out <br>
-  &nbsp; [my profile on the university webpage](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1) or <br>
-  &nbsp; [orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131) :)
+currently, this page mainly serves the purpose of providing easy access to the theses of my mechanical engineering studies. for more recent research activities please check out [my profile on the university webpage](https://www.cats.rwth-aachen.de/cms/cats/der-lehrstuhl/team/~bkckdt/wege-oliver/?lidx=1&allou=1) or [orcid.org/0009-0003-9177-4131](https://orcid.org/0009-0003-9177-4131) :)
 
 # .master thesis
 <a href="/content/master-thesis" class="imghover">
