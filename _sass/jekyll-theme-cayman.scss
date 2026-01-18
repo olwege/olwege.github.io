@@ -34,6 +34,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  background-color: #FFDD00;
 }
 
 #skip-to-content {
@@ -108,7 +109,6 @@ a {
 }
 
 .page-header {
-  top: 0;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;

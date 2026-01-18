@@ -12,15 +12,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@400&display=swap" rel="stylesheet"> -->
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#FCB315">
+    <meta name="theme-color" content="#FFDD00">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class="page-header">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
