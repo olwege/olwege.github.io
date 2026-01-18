@@ -15,12 +15,9 @@ currently, this page mainly serves the purpose to give easy access to the bachel
 </a>
 
 # .contact
-Oliver Wege, M.Sc. <br>
-Research Associate in Computational Engineering <br>
+oliver wege, m.sc. <br>
+phd student in computational engineering <br>
 [wege@cats.rwth-aachen.de](mailto:wege@cats.rwth-aachen.de)  <br>
 
-Chair for Computational Analysis of Technical Systems (CATS)  <br>
-RWTH Aachen University  <br>
-Schinkelstrasse 2  <br>
-52062 Aachen, Germany  <br>
+cats, rwth aachen university <br>
 [cats.rwth-aachen.de](https://www.cats.rwth-aachen.de) <br>
