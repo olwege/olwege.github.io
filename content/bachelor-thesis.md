@@ -2,7 +2,7 @@
 layout: default
 title: bachelor thesis
 ---
-this is a collection of the work i've done in my bachelor thesis and in the master course _engineering conferences_ at the university of applied sciences duesseldorf in germany. beside the paper about the _topology optimization of truss structures to redesign solid components_, you can access the corresponding thesis (written in german) along with the results of all my experiments, performed by the presented algorithm. especially the "_<tt>_optVal.pdf</tt>_" files of the models allow a valuable glimpse behind the scenes of the optimization process (e.g. of the [michell cantilever with circular support](/files/imgs/results/michellCircCantilever/michellCircCantilever_optVal.pdf)).
+this is a collection of the work i've done in my bachelor thesis and in the master course _engineering conferences_ at the university of applied sciences duesseldorf in germany. along with the paper about the _topology optimization of truss structures to redesign solid components_, you can access the corresponding thesis (written in german) and with the results of all my experiments. especially the _<tt>_optVal.pdf</tt>_ files of the models allow a valuable glimpse behind the scenes of the optimization process (e.g. the [michell cantilever with circular support](/files/imgs/results/michellCircCantilever/michellCircCantilever_optVal.pdf)).
 
 # .article
 <a href="/files/docs/Wege2022_Article_TrussOptimization_en.pdf" class="imghover">
