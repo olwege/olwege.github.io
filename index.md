@@ -17,7 +17,8 @@ currently, this page mainly serves the purpose of providing easy access to the t
 # .contact
 oliver wege, m.sc. <br>
 phd student in computational engineering <br>
-[wege@cats.rwth-aachen.de](mailto:wege@cats.rwth-aachen.de)  <br>
+emails always welcome [wege@cats.rwth-aachen.de](mailto:wege@cats.rwth-aachen.de)  <br>
 
-cats, rwth aachen university <br>
+computational analysis of technical systems <br>
+rwth aachen university <br>
 [cats.rwth-aachen.de](https://www.cats.rwth-aachen.de) <br>
