@@ -25,4 +25,4 @@ This is a collection of the work I've done in my bachelor thesis and in the mast
 </a>
 
 <br><br>
-[<- take me home.](/index)
+[<< take me home.](/index)
